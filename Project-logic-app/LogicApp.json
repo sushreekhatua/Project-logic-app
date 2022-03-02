@@ -69,7 +69,7 @@
     },
     "password": {
       "type": "string",
-      "defaultValue": "winter2022"
+      //"defaultValue": "winter2022"
     }
   },
   "variables": {},
