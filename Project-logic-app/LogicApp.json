@@ -68,7 +68,7 @@
       "defaultValue": "MSN Weather"
     },
     "password": {
-      "type": "string",
+      "type": "securestring"
       //"defaultValue": "winter2022"
     }
   },
